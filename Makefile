@@ -1,3 +1,4 @@
+# Just for test
 .PHONY: all clean
 
 all: hello
